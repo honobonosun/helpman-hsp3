@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "helpman-hsp3:search"
   },
-  "repository": "https://github.com/atom/helpman-hsp3",
+  "repository": "https://github.com/honobonosun/helpman-hsp3",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
