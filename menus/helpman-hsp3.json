@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "search (helpman-hsp3)",
+        "command": "helpman-hsp3:search"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "helpman-hsp3",
+          "submenu": [
+            {
+              "label": "search",
+              "command": "helpman-hsp3:search"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "helpman-hsp3",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "F1 function reproduce for HSP script editor.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "helpman-hsp3:search"
+  },
+  "repository": "https://github.com/atom/helpman-hsp3",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
